@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunksurui"]=self["webpackChunksurui"]||[]).push([[594],{603:function(u,n,r){r.r(n),r.d(n,{default:function(){return l}});var s=r(6768);const t={class:"about"},a=(0,s.Lk)("h1",null,"This is an about page",-1),e=[a];function c(u,n){return(0,s.uX)(),(0,s.CE)("div",t,e)}var i=r(1241);const o={},f=(0,i.A)(o,[["render",c]]);var l=f}}]);
+//# sourceMappingURL=about.fb86c141.js.map
